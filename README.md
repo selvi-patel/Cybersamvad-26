@@ -5,9 +5,8 @@
 Built for **Cybersamvad-26** by Selvi Patel
 
 **Track:** Smart City and Critical Infrastructure Cybersecurity
-**Demo:** [live link or video link]
 
-![CITADEL screenshot] <img width="959" height="407" alt="Screenshot" src="https://github.com/user-attachments/assets/c92c834a-f1d2-4f74-aef4-b0fdf3662073" />
+![CITADEL] <img width="959" height="407" alt="Screenshot" src="https://github.com/user-attachments/assets/c92c834a-f1d2-4f74-aef4-b0fdf3662073" />
 
 
 ## The challenge
