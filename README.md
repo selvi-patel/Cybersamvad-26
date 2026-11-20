@@ -2,12 +2,13 @@
 
 > **Simulation only.** Everything is synthetic and runs client-side in the browser. There is no networking, scanning, or attack code, and no real city infrastructure is touched.
 
-Built for **Cybersamvad-26** by [team name / members]. [Award or placement, if any.]
+Built for **Cybersamvad-26** by Selvi Patel
 
 **Track:** Smart City and Critical Infrastructure Cybersecurity
 **Demo:** [live link or video link]
 
-![CITADEL screenshot](screenshot.png)
+![CITADEL screenshot] <img width="959" height="407" alt="Screenshot" src="https://github.com/user-attachments/assets/c92c834a-f1d2-4f74-aef4-b0fdf3662073" />
+
 
 ## The challenge
 
